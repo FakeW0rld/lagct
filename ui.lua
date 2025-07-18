@@ -407,7 +407,7 @@ end
 
 return g end function a.b()
 return{
-黑暗={
+Dark={
 Name="黑暗",
 Accent="#18181b",
 Dialog="#18181b",
@@ -418,7 +418,7 @@ Background="#0e0e10",
 Button="#52525b",
 Icon="#a1a1aa",
 },
-亮色={
+Light={
 Name="亮色",
 Accent="#FFFFFF",
 Dialog="#f4f4f5",
@@ -429,7 +429,7 @@ Background="#e4e4e7",
 Button="#18181b",
 Icon="#52525b",
 },
-玫瑰色={
+Rose={
 Name="玫瑰色",
 Accent="#f43f5e",
 Outline="#ffe4e6",
@@ -439,7 +439,7 @@ Background="#881337",
 Button="#e11d48",
 Icon="#fecdd3",
 },
-植物色={
+Plant={
 Name="植物色",
 Accent="#22c55e",
 Outline="#dcfce7",
@@ -449,7 +449,7 @@ Background="#14532d",
 Button="#22c55e",
 Icon="#86efac",
 },
-红色={
+Red={
 Name="红色",
 Accent="#ef4444",
 Outline="#fee2e2",
@@ -459,7 +459,7 @@ Background="#7f1d1d",
 Button="#ef4444",
 Icon="#fecaca",
 },
-靛蓝色={
+Indigo={
 Name="靛蓝色",
 Accent="#6366f1",
 Outline="#e0e7ff",
@@ -469,7 +469,7 @@ Background="#312e81",
 Button="#6366f1",
 Icon="#c7d2fe",
 },
-天空色={
+Sky={
 Name="天空色",
 Accent="#0ea5e9",
 Outline="#e0f2fe",
@@ -479,7 +479,7 @@ Background="#075985",
 Button="#0ea5e9",
 Icon="#bae6fd",
 },
-紫罗兰={
+Violet={
 Name="紫罗兰",
 Accent="#8b5cf6",
 Outline="#ede9fe",
@@ -489,7 +489,7 @@ Background="#4c1d95",
 Button="#8b5cf6",
 Icon="#ddd6fe",
 },
-琥珀={
+Amber={
 Name="琥珀",
 Accent="#f59e0b",
 Outline="#fef3c7",
@@ -499,7 +499,7 @@ Background="#78350f",
 Button="#f59e0b",
 Icon="#fde68a",
 },
-翡翠={
+Emerald={
 Name="翡翠",
 Accent="#10b981",
 Outline="#d1fae5",
