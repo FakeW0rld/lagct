@@ -408,7 +408,7 @@ end
 return g end function a.b()
 return{
 Dark={
-Name="Dark",
+Name="黑暗",
 Accent="#18181b",
 Dialog="#18181b",
 Outline="#FFFFFF",
@@ -419,7 +419,7 @@ Button="#52525b",
 Icon="#a1a1aa",
 },
 Light={
-Name="Light",
+Name="亮色",
 Accent="#FFFFFF",
 Dialog="#f4f4f5",
 Outline="#09090b",
@@ -430,7 +430,7 @@ Button="#18181b",
 Icon="#52525b",
 },
 Rose={
-Name="Rose",
+Name="玫瑰色",
 Accent="#f43f5e",
 Outline="#ffe4e6",
 Text="#ffe4e6",
@@ -440,7 +440,7 @@ Button="#e11d48",
 Icon="#fecdd3",
 },
 Plant={
-Name="Plant",
+Name="植物色",
 Accent="#22c55e",
 Outline="#dcfce7",
 Text="#dcfce7",
@@ -450,7 +450,7 @@ Button="#22c55e",
 Icon="#86efac",
 },
 Red={
-Name="Red",
+Name="红色",
 Accent="#ef4444",
 Outline="#fee2e2",
 Text="#ffe4e6",
@@ -460,7 +460,7 @@ Button="#ef4444",
 Icon="#fecaca",
 },
 Indigo={
-Name="Indigo",
+Name="靛蓝色",
 Accent="#6366f1",
 Outline="#e0e7ff",
 Text="#e0e7ff",
@@ -470,7 +470,7 @@ Button="#6366f1",
 Icon="#c7d2fe",
 },
 Sky={
-Name="Sky",
+Name="天空色",
 Accent="#0ea5e9",
 Outline="#e0f2fe",
 Text="#e0f2fe",
@@ -480,7 +480,7 @@ Button="#0ea5e9",
 Icon="#bae6fd",
 },
 Violet={
-Name="Violet",
+Name="紫罗兰",
 Accent="#8b5cf6",
 Outline="#ede9fe",
 Text="#ede9fe",
@@ -490,7 +490,7 @@ Button="#8b5cf6",
 Icon="#ddd6fe",
 },
 Amber={
-Name="Amber",
+Name="琥珀",
 Accent="#f59e0b",
 Outline="#fef3c7",
 Text="#fef3c7",
@@ -500,7 +500,7 @@ Button="#f59e0b",
 Icon="#fde68a",
 },
 Emerald={
-Name="Emerald",
+Name="翡翠",
 Accent="#10b981",
 Outline="#d1fae5",
 Text="#d1fae5",
@@ -7255,7 +7255,7 @@ p:CreateTopbarButton("Close","x",function()
 g(p.UIElements.Main,0.35,{Position=UDim2.new(0.5,0,0.5,0)},Enum.EasingStyle.Quint,Enum.EasingDirection.Out):Play()
 p:Dialog{
 
-Title=" WindoClosew",
+Title="SkyHub",
 Content="你确定要关闭窗口吗",
 Buttons={
 {
